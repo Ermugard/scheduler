@@ -2,7 +2,7 @@ const dev = {
   port: 3000,
   'redis': {
     'host': 'localhost',
-    'port': '5984',
+    'port': '6380',
     'db': 0,
     'key': 'testWork'
   }
@@ -12,7 +12,7 @@ const prod = {
   port: 3000,
   'redis': {
     'host': 'localhost',
-    'port': '5984',
+    'port': '6380',
     'db': 0,
     'key': 'testWork'
   }
