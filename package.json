@@ -1,0 +1,22 @@
+{
+  "name": "test_api",
+  "version": "0.0.1",
+  "description": "Scheduler api",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "redis": "^2.8.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.0"
+  },
+  "keywords": [
+    "redis",
+    "scheduler",
+    "api"
+  ],
+  "author": "Andrii Struk",
+  "license": "ISC"
+}
